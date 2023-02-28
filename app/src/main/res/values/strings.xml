@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mornhouse</string>
+    <string name="action_settings">Налаштування</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Гловний екран</string>
+    <string name="second_fragment_label">2-ий екран</string>
+    <string name="get_fact">Отримати факт</string>
+    <string name="get_random_fact">Отримати факт про випадкове число</string>
+    <string name="type_number">Введіть число</string>
+    <string name="previous">Назад</string>
+    <string name="selected_number">Вибране число: %1$s</string>
+
+</resources>
