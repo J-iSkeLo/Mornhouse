@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Netronic"
+rootProject.name = "Mornhouse"
 include ':app'
